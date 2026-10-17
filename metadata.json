@@ -1,0 +1,6 @@
+{
+  "name": "ApnaGo - Indian On-Demand Delivery Platform",
+  "description": "Production-ready on-demand delivery app for Food, Grocery, Daily Essentials, and Parcel delivery across India with customer app, delivery partner portal, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
